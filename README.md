@@ -14,3 +14,6 @@ This tool read the design and update files and then fill the new info in the des
 - V1.2(2016/10/11 02:00 UTC+08:00)
   - add result display
   - fix a null pointer execption when add new data.
+- V1.3(2016/10/12 22:00 UTC+08:00)
+	- add new function to write back the result to design file
+	- compare file by modefy time 
