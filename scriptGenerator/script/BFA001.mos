@@ -1,0 +1,17 @@
+cr Equipment=1,RiLink=4
+1
+Subrack=1,Slot=2,PlugInUnit=1,RiPort=A
+AuxPlugInUnit=rru1,RiPort=DATA_2
+
+cr Equipment=1,RiLink=5
+1
+Subrack=1,Slot=2,PlugInUnit=1,RiPort=B
+AuxPlugInUnit=rru2,RiPort=DATA_2
+
+cr Equipment=1,RiLink=6.123
+1
+Subrack=1,Slot=2,PlugInUnit=1,RiPort=C
+AuxPlugInUnit=rru3,RiPort=DATA_2
+
+
+
