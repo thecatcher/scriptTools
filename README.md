@@ -29,3 +29,6 @@ a simple tool to generate scripts. it used for nodes batch operation, fill the p
 - V1.0.2(2016/4/1)
 	- single script generation
 	- use excel file as parameters list.
+- V1.0.3(2016/11/02)
+	- change to use csv file format as parameter list
+	
